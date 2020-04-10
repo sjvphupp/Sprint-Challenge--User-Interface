@@ -65,6 +65,19 @@ h1, h2, h3, h4, h5 {
 p {
     line-height: 1.4;
 }
+img {
+   width: 400px;
+   height: 200px;
+   position: center;
+
+}
+
+header nav a{
+    text-decoration: none;
+    color: red;
+    display: flex;
+
+}
 
 .container {
     width: 800px;
@@ -104,7 +117,7 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: teal;
     margin: 20px 2.5%;
     color: white;
     display: flex;
